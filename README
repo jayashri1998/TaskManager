@@ -15,6 +15,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/jayashri1998/TaskManager.git
 cd TaskManager
+here is deployed task-https://jovial-dieffenbachia-cdcc93.netlify.app/
 # Task Manager SPA
 
 This is a simple **Task Manager** Single Page Application (SPA) built with vanilla JavaScript, HTML, and CSS. It allows you to:
