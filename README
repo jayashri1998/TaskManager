@@ -1,0 +1,38 @@
+# 📝 Task Manager Project
+
+This is a simple **Task Manager** project built using **HTML**, **CSS**, and **JavaScript**.
+
+It allows users to **add**, **edit**, **delete**, and **manage tasks** directly in the browser. All tasks are stored in **localStorage**, so your data persists even after refreshing.
+
+---
+
+## 🚀 Setup Instructions
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/task-manager.git
+cd task-manager
+# Task Manager SPA
+
+This is a simple **Task Manager** Single Page Application (SPA) built with vanilla JavaScript, HTML, and CSS. It allows you to:
+
+- Add new tasks with title, description, and due date
+- View a list of tasks with filtering and search options
+- Edit and delete tasks
+- Mark tasks as completed or pending
+- Use browser History API for navigation (Add/Edit task forms and task list views)
+- Data is saved in browser's `localStorage` for persistence
+
+---
+
+## Features
+
+- Tasks are stored and retrieved from `localStorage`
+- Filter tasks by status (Completed/Pending) and due date
+- Search tasks by title or description keywords
+- Task descriptions are truncated with a "Read more/less" toggle
+- SPA navigation using History API (`pushState` and `popstate`)
+- Confirmation dialog before deleting a task
